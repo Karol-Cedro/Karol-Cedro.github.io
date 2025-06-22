@@ -1,1 +1,0 @@
-# Karol-Cedro.github.io
