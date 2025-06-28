@@ -4,7 +4,7 @@ function Navbar() {
             <div className="max-w-4xl mx-auto flex gap-8 p-4 justify-center">
                 <a href="#home" className="text-blue-600 font-semibold hover:underline">Home</a>
                 <a href="#about" className="text-blue-600 font-semibold hover:underline">About</a>
-                <a href="#projects" className="text-blue-600 font-semibold hover:underline">Projects</a>
+                <a href="#skills" className="text-blue-600 font-semibold hover:underline">Skills</a>
                 <a href="#contact" className="text-blue-600 font-semibold hover:underline">Contact</a>
             </div>
         </nav>

@@ -1,8 +1,8 @@
 import Navbar from './components/Navbar';
-import Home from './components/Home.jsx';
-import About from './components/About.jsx';
-import Projects from './components/Projects.jsx';
-import Contact from './components/Contact.jsx';
+import Home from './sections/Home.jsx';
+import About from './sections/About.jsx';
+import Skills from './sections/Skills.jsx';
+import Contact from './sections/Contact.jsx';
 
 function App() {
     return (
@@ -11,7 +11,7 @@ function App() {
             <main className="pt-20"> {/* Padding to avoid overlap with fixed navbar */}
                 <Home/>
                 <About/>
-                <Projects/>
+                <Skills/>
                 <Contact/>
             </main>
         </div>
