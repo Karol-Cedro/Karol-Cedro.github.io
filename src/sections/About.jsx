@@ -17,7 +17,7 @@ function About() {
                             I am a <span className="font-semibold text-blue-600">Software Engineer</span> interested mostly in Backend and DevOps-related topics.
                         </p>
                         <p className="mt-4 text-lg leading-relaxed text-gray-700">
-                            Currently I work as a Software Engineer in a <span className="italic">Platform Engineering</span> team at Sabre, helping to build and improve tools and systems that support our teams.
+                            Currently I work in a <span className="italic">Platform Engineering</span> team at Sabre, helping to build and improve tools and systems that support our teams.
                         </p>
                         <p className="mt-4 text-lg leading-relaxed text-gray-700">
                             In my free time I like to play with new technologies and learn new things by creating projects like this page.
