@@ -4,7 +4,7 @@ function ExperienceTimeline() {
             company: "Sabre",
             position: "Software Engineer IV",
             date: "09/2024 - Present",
-            location: "Remote (Kraków)",
+            location: "Remote (Cracow)",
             description: [
                 "Developing a Java application based on Quarkus framework.",
                 "Creating a CI/CD workflows based on GitHub Actions.",
